@@ -23,12 +23,6 @@
     integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
   
     <link href="https://getbootstrap.com/docs/5.2/assets/css/docs.css" rel="stylesheet">
-    <!-- flickity CSS only -->
-  <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-  <!-- JavaScript 
-  <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-    -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
 
   </head>
 
@@ -56,19 +50,6 @@
         </div>
       </header>
     </div>
-
-    <!-- Flickity HTML init 
-
-    <div class="carousel carousel-img mt-5" data-flickity='{ "imagesLoaded": true, "percentPosition": false }'>
-      <img src="../imgs/Recetas/Almuerzo/sandwich-gfceab6bb2_1920.jpg" alt="salmon" />
-      <img src="../imgs/Recetas/Almuerzo/pasta.jpg" alt="pasta" />
-      <img src="../imgs/Recetas/Almuerzo/salmon.jpg" alt="salmon" />
-      <img src="../imgs/Recetas/Almuerzo/pasta.jpg" alt="pasta" />
-      <img src="../imgs/Recetas/Almuerzo/salmon.jpg" alt="salmon" />
-      <img src="../imgs/Recetas/Almuerzo/pasta.jpg" alt="pasta" />
-    </div>
--->
-
 
   <div id='carouselExampleIndicators' class='carousel slide mt-5' data-bs-ride='true'>
     <div class='carousel-indicators'>

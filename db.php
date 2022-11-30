@@ -6,10 +6,10 @@
         $database = new Medoo([
             // [required]
             'type' => 'mysql',
-            'host' => 'www.db4free.net',
+            'host' => 'localhost',
             'database' => 'recipesxpro',
-            'username' => 'oscargm',
-            'password' => '01311020osca'
+            'username' => 'root',
+            'password' => ''
         ]);
     }
     //www.db4free.net, oscargm, 01311020osca
