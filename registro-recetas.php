@@ -284,6 +284,7 @@
 
             for($i=0; $i<$len; $i++){
                 echo "<tr>";
+
                 echo "<td><img src='./imgs/".$data[$i]["recipe_image"]."'class='thumb img-25'></td>";
                 echo "<td>".$data[$i]["recipe_name"]."</td>";
                 echo "<td>".$data[$i]["recipe_likes"]."</td>";
